@@ -22,4 +22,4 @@ boxing_schedule, boxing_results, boxer, bout, next_fight, rankings, search, sear
 
 ## License
 
-Extension code: MIT (see LICENSE). Data comes from Boxerbook; terms at https://boxerbook.com/terms. Please cite the `url` fields and credit Boxerbook.
+Extension code: MIT (see LICENSE). Data comes from Boxerbook and is free to read and cite with attribution ("Data: Boxerbook (boxerbook.com)", link the `url` field of each answer); use in apps is by agreement via an API key. Terms: https://boxerbook.com/terms. Data obtained before 2026-11-03 stays under the ODbL.
