@@ -1,0 +1,11 @@
+{
+  "name": "boxerbook",
+  "version": "1.0.0",
+  "description": "Professional boxing data from Boxerbook: schedules, results, boxer records, rankings, bouts and where to watch.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "boxerbook": {
+      "httpUrl": "https://mcp.boxerbook.com/mcp"
+    }
+  }
+}
